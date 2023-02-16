@@ -1,1 +1,1 @@
-# NGO-Management-System
+# Designed website for a non-profit organization
